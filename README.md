@@ -1,3 +1,3 @@
 # Fresher Basics
 
-@hi
+Lets learn something else
