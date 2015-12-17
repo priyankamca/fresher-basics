@@ -1,3 +1,4 @@
 # Fresher Basics
 
-@hi
+Lets learn git
+
